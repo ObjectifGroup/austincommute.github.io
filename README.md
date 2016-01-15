@@ -17,4 +17,5 @@ My hope is that this becomes a community-driven effort. I hope that in 2016 we s
 I hope that those who are more technically-minded and comfortable with Github can help their companies navigate the waters. If you're in HR (and once we have something), find someone in your organization who is passionate about transportation. I promise they are there. 
 
 <b id="f1">1</b> http://freakonomics.com/2015/12/31/when-willpower-isnt-enough-a-freakonomics-radio-rebroadcast/ [↩](#a1)
+
 <b id="f2">2</b> http://styleguide.mailchimp.com/ [↩](#a2)
